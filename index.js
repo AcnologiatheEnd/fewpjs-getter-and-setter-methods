@@ -8,9 +8,9 @@ class Circle {
     return this.radius * 2
   }
   
-  //get circumference() {
-    
-  //}
+  get circumference() {
+    return Math.pi * diameter()
+  }
   
   //get area() {
     
