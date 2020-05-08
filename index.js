@@ -20,9 +20,9 @@ class Circle {
       return this.radius = newDiameter/2
   }
   
-  //set circumference() {
-    
-  //}
+  set circumference(newCircumference) {
+    return this.radius =   
+  }
   
   //set area() {
     
