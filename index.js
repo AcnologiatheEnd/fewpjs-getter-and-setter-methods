@@ -19,4 +19,12 @@ class Circle {
   set diameter() {
     
   }
+  
+  set circumference() {
+    
+  }
+  
+  set area() {
+    
+  }
 }
