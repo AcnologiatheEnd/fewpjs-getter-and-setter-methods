@@ -12,9 +12,9 @@ class Circle {
     return Math.PI*(this.radius * 2)
   }
   
-  //get area() {
-    
-  //}
+  get area() {
+    return Math.PI * (this.radius**2)
+  }
   
   //set diameter() {
     
